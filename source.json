@@ -64,7 +64,7 @@
         "paths": [
             "surge/modules"
         ]
-    }
+    },
     {
         "owner": "SysDQ",
         "repo": "Stash",
