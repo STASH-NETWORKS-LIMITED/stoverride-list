@@ -69,5 +69,10 @@
         "owner": "SysDQ",
         "repo": "Stash",
         "branch": "main"
+    },
+    {
+        "owner": "StevenKwan",
+        "repo": "stash-waffle",
+        "branch": "main"
     }
 ]
