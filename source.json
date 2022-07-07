@@ -78,6 +78,9 @@
     {
         "owner": "FanxJK",
         "repo": "Rules",
-        "branch": "main"
+        "branch": "main",
+        "paths": [
+            "Stash"
+        ]
     }
 ]
