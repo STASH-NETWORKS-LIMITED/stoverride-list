@@ -74,5 +74,10 @@
         "owner": "StevenKwan",
         "repo": "stash-waffle",
         "branch": "main"
+    },
+    {
+        "owner": "FanxJK",
+        "repo": "Rules",
+        "branch": "main"
     }
 ]
