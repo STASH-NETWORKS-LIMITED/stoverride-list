@@ -82,5 +82,13 @@
         "paths": [
             "Stash"
         ]
-    }
+    },
+    {
+        "owner": "$H!NDGEKYUME",
+        "repo": "WHATSINStash",
+        "branch": "main",
+        "paths": [
+            "stoverride"
+        ]
+    },
 ]
